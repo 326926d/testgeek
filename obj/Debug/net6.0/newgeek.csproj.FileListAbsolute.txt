@@ -1,0 +1,15 @@
+E:\newgeek\bin\Debug\net6.0\newgeek.exe
+E:\newgeek\bin\Debug\net6.0\newgeek.deps.json
+E:\newgeek\bin\Debug\net6.0\newgeek.runtimeconfig.json
+E:\newgeek\bin\Debug\net6.0\newgeek.dll
+E:\newgeek\bin\Debug\net6.0\ref\newgeek.dll
+E:\newgeek\bin\Debug\net6.0\newgeek.pdb
+E:\newgeek\obj\Debug\net6.0\newgeek.csproj.AssemblyReference.cache
+E:\newgeek\obj\Debug\net6.0\newgeek.GeneratedMSBuildEditorConfig.editorconfig
+E:\newgeek\obj\Debug\net6.0\newgeek.AssemblyInfoInputs.cache
+E:\newgeek\obj\Debug\net6.0\newgeek.AssemblyInfo.cs
+E:\newgeek\obj\Debug\net6.0\newgeek.csproj.CoreCompileInputs.cache
+E:\newgeek\obj\Debug\net6.0\newgeek.dll
+E:\newgeek\obj\Debug\net6.0\ref\newgeek.dll
+E:\newgeek\obj\Debug\net6.0\newgeek.pdb
+E:\newgeek\obj\Debug\net6.0\newgeek.genruntimeconfig.cache
